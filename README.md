@@ -78,5 +78,5 @@ https://github.com/VeryFatBoy/clip-demo
 ![image](https://github.com/user-attachments/assets/e55a148f-3393-41ef-af03-fc5fc700515e)
 ![image](https://github.com/user-attachments/assets/6349b885-c704-46b1-9640-5fbe2e325ba3)
 
-Check the notebook in the repository link for singlestore database operation.
+Check the notebook in the repository for singlestore database operation.
 
